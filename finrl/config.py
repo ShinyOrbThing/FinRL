@@ -49,7 +49,6 @@ SAC_PARAMS = {
 }
 
 DQN_PARAMS = {
-    "n_steps": 2048,
     "learning_rate": 0.0001,
     "batch_size": 64,
 }
